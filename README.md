@@ -8,4 +8,5 @@ A simple frontend TodoApp using Javascript(ES6) with React library to master dat
 ## Todo App Data Flows
 ![TodoAppDataFlows](TodoAppDataFlows.png)
 
-
+## Demo
+![Demo](Demo.png)
