@@ -5,10 +5,10 @@ A simple frontend TodoApp using Javascript(ES6) with React library to master dat
 (A stateful component Clock on the top of the TodoList)
 
 
-* Todo App Data Flows
+## Todo App Data Flows
 ![TodoAppDataFlows](TodoAppDataFlows.png)
 
 <br/>
 
-* Demo
+## Demo
 ![Demo](Demo.png)
