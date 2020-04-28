@@ -20,8 +20,8 @@
     <div id="todos"></div>
     <script type="text/babel">
       class Clock extends React.Component {
-        constructor(props) {
-          super(props);
+        constructor() {
+          super();
           this.state = { date : new Date() };
         }
 
@@ -51,8 +51,8 @@
       }
 
       class TodoApp extends React.Component {
-        constructor(props) {
-          super(props);
+        constructor() {
+          super();
           this.state = { todos: [] };
         }
 
@@ -83,8 +83,8 @@
       }
 
       class UserInput extends React.Component {
-        constructor(props) {
-          super(props);
+        constructor() {
+          super();
           this.state = { userInput: "" };
         }
 
@@ -126,8 +126,8 @@
       }
 
       class TodoItem extends React.Component {
-        constructor(props) {
-          super(props);
+        constructor() {
+          super();
           this.state = { done: false };
         }
 
